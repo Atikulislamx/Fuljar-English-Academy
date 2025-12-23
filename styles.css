@@ -39,7 +39,6 @@ body {
     font-size: 1.3rem;
     font-weight: 300;
     opacity: 0.95;
-    font-family: 'SolaimanLipi', 'Kalpurush', 'Segoe UI', sans-serif;
 }
 
 /* Section Styles */
@@ -64,7 +63,6 @@ section {
 
 .section-content p {
     margin-bottom: 20px;
-    text-align: justify;
 }
 
 /* About Section */
@@ -165,7 +163,6 @@ section {
     font-size: 1.1rem;
     line-height: 1.8;
     color: #555;
-    text-align: justify;
 }
 
 /* Features Section */
